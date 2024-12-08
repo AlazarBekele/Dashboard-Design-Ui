@@ -17,3 +17,23 @@ body {
 .DropdownMenu {
     list-style: none;
 }
+
+.arrow {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(98deg) brightness(106%) contrast(101%);
+    width: 10px;
+}
+
+.logBtn {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(237, 231, 156);
+    padding: 13px 30px 13px 30px;
+}
+
+.tryBtn {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(237, 231, 156);
+    padding: 13px 10px 13px 10px;
+    background-color: rgb(63, 177, 253);
+}
