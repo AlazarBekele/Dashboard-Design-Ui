@@ -3,7 +3,17 @@ body {
     margin: 0;
     padding: 0;
 }
+
 .Hero-banner {
     height: 100vh;
     background-color: #043872;
+}
+
+.Logo {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(98deg) brightness(106%) contrast(101%);
+    width: 80px;
+}
+
+.DropdownMenu {
+    list-style: none;
 }
