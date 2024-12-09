@@ -7,7 +7,7 @@ body {
 .Hero-banner {
     height: 100vh;
     background-color: #043872;
-    background-image: url(/Img/output.png);
+    /* background-image: url(/Img/output.png); */
 }
 
 .Logo {
@@ -37,4 +37,21 @@ body {
     background-color: rgb(237, 231, 156);
     padding: 13px 10px 13px 10px;
     background-color: rgb(63, 177, 253);
+}
+
+.herofont {
+    font-size: 65px;
+}
+
+.MainHeroImg {
+    width: 600px;
+}
+
+
+.SecondContainer {
+    height: 100vh;
+}
+
+.MainsecondImg {
+    width: 700px;
 }
